@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\ListOfEmployees\DataLayer\bin\Debug\net5.0\DataLayer.deps.json
+C:\Users\Admin\source\repos\ListOfEmployees\DataLayer\bin\Debug\net5.0\DataLayer.dll
+C:\Users\Admin\source\repos\ListOfEmployees\DataLayer\bin\Debug\net5.0\ref\DataLayer.dll
+C:\Users\Admin\source\repos\ListOfEmployees\DataLayer\bin\Debug\net5.0\DataLayer.pdb
+C:\Users\Admin\source\repos\ListOfEmployees\DataLayer\obj\Debug\net5.0\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\ListOfEmployees\DataLayer\obj\Debug\net5.0\DataLayer.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ListOfEmployees\DataLayer\obj\Debug\net5.0\DataLayer.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ListOfEmployees\DataLayer\obj\Debug\net5.0\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ListOfEmployees\DataLayer\obj\Debug\net5.0\DataLayer.dll
+C:\Users\Admin\source\repos\ListOfEmployees\DataLayer\obj\Debug\net5.0\ref\DataLayer.dll
+C:\Users\Admin\source\repos\ListOfEmployees\DataLayer\obj\Debug\net5.0\DataLayer.pdb
+C:\Users\Admin\source\repos\ListOfEmployees\DataLayer\obj\Debug\net5.0\DataLayer.csprojAssemblyReference.cache
